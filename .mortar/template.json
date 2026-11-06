@@ -1,0 +1,20 @@
+{
+  "template": "Rethunk-Tech/mortar-bepinex5-template",
+  "ref": "v0.2.2",
+  "name": "NoMaskMaskeds",
+  "values": {
+    "assets": "false",
+    "audience": "client",
+    "categories": "mods|bepinex",
+    "config": "false",
+    "configSync": "false",
+    "description": "Simple mod that removes the masks from maskeds. It Does literally just this",
+    "idPrefix": "com.wallet",
+    "loaderPackVersion": "5.4.2305",
+    "modAuthor": "Wallet",
+    "netcode": "false",
+    "team": "Wallet"
+  },
+  "game": "lethal-company",
+  "templateIcon": "983d4b2b4b9d25da1f4d005ebd711cbe6cf3c3273fff34283a1ec32222efdc0a"
+}
