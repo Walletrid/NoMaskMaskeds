@@ -10,7 +10,7 @@
   <PropertyGroup>
     <IsThunderstorePackable>true</IsThunderstorePackable>
     <ThunderstoreName>NoMaskMaskeds</ThunderstoreName>
-    <ThunderstoreDescription>Simple mod that removes the masks from maskeds. It Does literally just this</ThunderstoreDescription>
+    <ThunderstoreDescription>A mod that removes the masks from maskeds + configurability of what gets changed.</ThunderstoreDescription>
     <ThunderstoreCommunities>lethal-company</ThunderstoreCommunities>
     <ThunderstoreCategories>mods;bepinex</ThunderstoreCategories>
   </PropertyGroup>
